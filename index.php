@@ -14,7 +14,7 @@
 	<h1>It is <?php echo $current_time ?> </h1>
 	<p>Time zone: <?php echo $time_zone ?> </p>
 	
-	<img href="http://making-the-internet.s3.amazonaws.com/<?php echo $image ?>"
+	<img src="http://making-the-internet.s3.amazonaws.com/<?php echo $image ?>">
 
 </body>
 </html>
